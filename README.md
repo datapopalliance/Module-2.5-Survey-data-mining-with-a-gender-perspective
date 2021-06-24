@@ -1,7 +1,7 @@
-# unw-liberia
+# Facebook MOOC
 
 
-This repository contains all the analysis, databases and cleaning functions used for P066 UN Women Liberia 2021.
+This repository contains all the analysis, databases and cleaning functions used for f020 Facebook MOOC 2021.
 
 
 ## Version and Requirements
